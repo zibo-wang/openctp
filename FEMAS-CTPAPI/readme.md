@@ -35,4 +35,4 @@ OpenMdLog=yes
 - AuthCode: 需申请
 
 #### 下载地址：
-[飞马柜台CTPAPI兼容接口下载](http://www.openctp.cn/download.html)
+[飞马柜台CTPAPI兼容接口下载](http://www.openctp.cn/FEMAS-CTPAPI.html)
